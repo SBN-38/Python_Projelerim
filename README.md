@@ -1,1 +1,1 @@
-# Gelisterilmeye Musait Sanal Market Programi
+#Yaptigim Python projelerinden bazilarini buraya atiyorum. Begendiklerinizi alabilirsiniz.
